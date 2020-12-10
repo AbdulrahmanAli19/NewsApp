@@ -5,7 +5,7 @@
   3. Recyclerview
   4. Some on Google material library (Appbar, Cardview)
 
-# Here is snapshot of how the app works
-![alt text](https://drive.google.com/file/d/1WrIRVqTy8kgw4yVcint3-OhH62dJsuAO/view?usp=sharing, "Snapshot 1")
+# Here some snapshots of how the app
+![alt text](https://drive.google.com/file/d/1WrIRVqTy8kgw4yVcint3-OhH62dJsuAO/view?usp=sharing)
 
 
