@@ -1,2 +1,2 @@
-###### NewsApp
- - NewsApp is an Application that  
+# NewsApp
+ - NewsApp is an Application that provides 
