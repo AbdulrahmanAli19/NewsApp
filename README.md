@@ -6,7 +6,6 @@
   4. Some on Google material library (Appbar, Cardview)
 
 # Here is snapshot of how the app works
-![alt text](https://drive.google.com/file/d/1dgtS9_IaxeMvxTTx2jXFS4cfEVJh5MW-/view?usp=sharing, "Snapshot 1")
-  git commit -am "By typing this command I am saving a collection of saved files."
+![alt text](https://drive.google.com/file/d/1WrIRVqTy8kgw4yVcint3-OhH62dJsuAO/view?usp=sharing, "Snapshot 1")
 
 
