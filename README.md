@@ -6,6 +6,6 @@
   4. Some on Google material library (Appbar, Cardview)
 
 # Here some snapshots of how the app
-![alt text](https://drive.google.com/file/d/1WrIRVqTy8kgw4yVcint3-OhH62dJsuAO/view?usp=sharing)
+![alt text](https://github.com/AbdulrahmanAli19/NewsApp/blob/master/Screenshot_2020-12-10-13-18-31-57_e1ee7f51c6ee7e39236c13efe21fcc8f%20(1).jpg)
 
 
